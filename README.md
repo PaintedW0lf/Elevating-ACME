@@ -1,4 +1,4 @@
-# Elevating-ACME
+# Elevating-ACME - ETL Data analysis project 
 A comprehensive data analysis report for ACME, uncovering key customer insights, sales volume trends, and pricing dynamics and provided actionable suggestions to enhance management decision-making.
 I have Utilized SQL, Microsoft Access, Databases, and Excel to generate an excel report and then a formal report. Further Forecasting techniques have been applied to predict both Best and worst products, invaluable insights into company sales, finances, and payment methods to elevate the company. 
 
